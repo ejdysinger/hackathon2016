@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Tanner\\Documents\\java\\hackathon2016\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_hyperspace_out.xml"
     },
     {
-        "merged": "C:\\Users\\Tanner\\Documents\\java\\hackathon2016\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_enter.xml",
-        "source": "C:\\Users\\Tanner\\Documents\\java\\hackathon2016\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_enter.xml"
-    },
-    {
         "merged": "C:\\Users\\Tanner\\Documents\\java\\hackathon2016\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_up_in.xml",
         "source": "C:\\Users\\Tanner\\Documents\\java\\hackathon2016\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_push_up_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tanner\\Documents\\java\\hackathon2016\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_zoom_enter.xml",
+        "source": "C:\\Users\\Tanner\\Documents\\java\\hackathon2016\\DJI-SDK-LIB\\build\\intermediates\\bundles\\debug\\res\\anim\\core_zoom_enter.xml"
     },
     {
         "merged": "C:\\Users\\Tanner\\Documents\\java\\hackathon2016\\DJI-SDK-LIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\core_push_left_in.xml",

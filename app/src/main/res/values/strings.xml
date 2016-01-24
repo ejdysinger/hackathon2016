@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Hackathon2016</string>
     <string name="title_activity_connect_to_drone">ConnectToDroneActivity</string>
+    <string name="title_activity_fpvtutorial">FPVTutorialActivity</string>
+    <string name="title_activity_demo_base">DemoBaseActivity</string>
+    <string name="title_activity_dji_aoa">DjiAoaActivity</string>
 </resources>
